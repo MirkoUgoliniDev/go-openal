@@ -1,7 +1,7 @@
 package openal_test
 
 import (
-	"github.com/talkkonnect/go-openal/openal"
+	"github.com/MirkoUgoliniDev/go-openal/openal"
 	"testing"
 )
 
